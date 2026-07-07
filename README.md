@@ -141,6 +141,16 @@ sequenceDiagram
     UI-->>U: Hiển thị kết quả (success/error)
 ```
 
+## Giao diện App trên Streamlit
+
+#. Chức năng dịch
+<img width="1080" height="770" alt="Screenshot 2026-07-07 at 2 55 16 pm" src="https://github.com/user-attachments/assets/2f5db2d7-2814-4b0e-ab87-62ba56a246a9" />
+
+
+#. Chức năng nhận diện ngôn ngữ và sửa typos
+<img width="1042" height="698" alt="Screenshot 2026-07-07 at 2 55 45 pm" src="https://github.com/user-attachments/assets/6f36f3b8-4a6e-484b-bba6-ceb2dcbf621a" />
+
+
 ## Giới hạn hiện tại
 
 - `pyspellchecker` chỉ hỗ trợ 10 ngôn ngữ (xem `SPELL_LANGS` trong `app.py`); các ngôn ngữ khác (kể cả tiếng Việt) chưa có tính năng sửa chính tả.
