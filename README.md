@@ -18,8 +18,7 @@
 - [Cấu trúc thư mục](#cấu-trúc-thư-mục)
 - [Giải thích luồng xử lý](#giải-thích-luồng-xử-lý)
 - [Giới hạn hiện tại](#giới-hạn-hiện-tại)
-- [Đóng góp](#đóng-góp)
-- [Giấy phép](#giấy-phép)
+
 
 ## Kiến trúc pipeline
 
