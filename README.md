@@ -1,4 +1,3 @@
-# NLP-translate-spellcheck--App
 
 # Streamlit NLP Pipeline Demo
 
