@@ -148,16 +148,4 @@ sequenceDiagram
 - Việc dịch phụ thuộc vào Google Translate không chính thức thông qua `deep_translator`, có thể bị giới hạn tốc độ (rate limit) hoặc lỗi khi mất kết nối mạng.
 - `langdetect` có thể nhận diện sai với câu quá ngắn hoặc pha trộn nhiều ngôn ngữ.
 
-## Đóng góp
 
-Rất hoan nghênh các đóng góp! Bạn có thể:
-
-1. Fork repo này.
-2. Tạo branch mới (`git checkout -b feature/ten-tinh-nang`).
-3. Commit thay đổi (`git commit -m "Add: mô tả ngắn gọn"`).
-4. Push branch (`git push origin feature/ten-tinh-nang`).
-5. Mở Pull Request.
-
-## Giấy phép
-
-Dự án được phát hành theo giấy phép [MIT](LICENSE).
